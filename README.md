@@ -1,3 +1,4 @@
 # Demo Code for Deep Variational Information Bottleneck
 
-Fill out.
+This is not an official Google product.
+
